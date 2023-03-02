@@ -1,10 +1,14 @@
 {
-    "database": {
-        "engine": "mysql",
-        "host": "db",
-        "name": "npm",
-        "user": "npm",
-        "password": "npmssp",
-        "port": "3306"
-    }
+  "database": {
+    "engine": "mysql",
+    "host": "db",
+    "name": "npm",
+    "user": "npm",
+    "password": "npmssp",
+    "port": "3306"
+  },
+  "jwt": {
+    "key": "-----BEGIN RSA PRIVATE KEY-----\nMIIEowIBAAKCAQEAgSVYjHUMpYH8/zte4iiMiv7X6GYsj7Fj7C5fHlnZndYPbxuT\nWbC95CrXWks9GT7ov4heC0/Gjq4Jmzr4XVdSRCw/wFJtIwSHJSROlfWzWWng9dKS\nkzvzhaqc6+xHlGSWAlLujADVz0mgD7B4wDRBfSH5i5PviwIilyTiDip503gs6XwK\n2O0N402tEOzCZLJFDD1qtFbTgeAtMidv2SYcOdu15aVfJYu487KTuCOziN5ajo3E\ndTOQ2P7SCg+7lVEb0Kwa+NaplFUpCQldYO7D7Hcc09Az3U7+vCjYiBNIsEJpwqTc\nyyHWCHhgbu/IyAyRpfkbEwcGaSjN2m+3XD8MrwIDAQABAoIBAEN4fmWLNVs2qTWz\nD+Q56QspDyXEU52SwLCAnYMez/mM/y0+C+J82whcdXwf+MC6xCBknzVrrUGXnT8z\nNNSXLUyejYPtzETSNcTqzf+8iMG69iOXqqovVQ/NTgRXwiG91z1JlIUiXpHYVj48\nJSnNYzV7zYLle+105Rtv0oYyHMmkq685Cjafz2f3dwnOLPTky1PpDgrxLVd6m46q\ngSc3SwMpqYnZHUdXfdkLEbvEtacNzwo0TN5plKcBaWbAuwen8X/PK697Raa3FFe+\nzYqyEBvuBKI24N0vUuB850N2kF4HOFXOigdA9wZJpkckHPitRdnUMOHSawuUZQs3\nZMAOfDkCgYEA1wXiJ8yrruLXFPoLUQ9Q/y28GtzKY2Kis7Z/xug5tlsyQ/8afE8x\nR/8Z5gn9ojPIJ5iaSplKAn+acfSdaVrJRUQycTeGMTrHpkiVn2cA0JnhO1l2xxww\nvAUi6CMr0kiCSYscZHOCdCOlfu3W5RWE7WfHMgPTlv6s8CAzEe001OUCgYEAmcHc\nMiP6r0hPLv4hckSBrvVjj9Q0bQG6uBPDeaUFxc1H2CSJJJ2CK/wmDW4ZQbeEG61/\ncTIMv8Y3m72IYSoclNn5rZfmfgCeG+LzAOPxaem8kbxMfytc5rayI+wBNON+2aZy\nF9Uk4Sm3ybq9p/GlyrIV/ItBL6dCiVL+RF+TdgMCgYBhms0XDeQc5eGGJx698/rr\naqJJe1HvnVWHyF7mNoIEEg+WKBWoufX/3X+vGXfliiXgO3hGRqD+01eTRNuzeD+G\nzrcrB25FqI36IFay3fnTtxYzb5/oMBa7MoWu5FA/CyUBJ0GDI5/jAk9cd7AlmwgV\nEBeuz2fb0c1Ezwj/qTJjNQKBgH/QXko0DHzPIDvRN150wlT9WeFDJr2C1YOVskYZ\nvx250sJDRNnyMTZ9Kei6IDa35hLX+/vN/jkg/jLxsEANMKswM9RxVEJkIwrNcvHH\ninRfv8hp/jEsi9KiBp3D3xDnGBi3u1pCbaDa/BOur1+/ifFgbtR7shl58d6T5hhS\nVxOfAoGBAMSzPK1RVYsTYdk84uEhJhbkw1gG5adXGmA2WTfsAqF7TMi/E2MpuSeF\nL5KrDLyZftGOAd1DLrx6XSpY4W0a9wJkRSRqeQrQi12qh8tl29LbqfOrf7WsC4Ra\nqOKtKX0XlRNdshVrccWjBFB/jZ0Ra2Cr6UFVJxK3LRY71/QusxPS\n-----END RSA PRIVATE KEY-----",
+    "pub": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAgSVYjHUMpYH8/zte4iiM\niv7X6GYsj7Fj7C5fHlnZndYPbxuTWbC95CrXWks9GT7ov4heC0/Gjq4Jmzr4XVdS\nRCw/wFJtIwSHJSROlfWzWWng9dKSkzvzhaqc6+xHlGSWAlLujADVz0mgD7B4wDRB\nfSH5i5PviwIilyTiDip503gs6XwK2O0N402tEOzCZLJFDD1qtFbTgeAtMidv2SYc\nOdu15aVfJYu487KTuCOziN5ajo3EdTOQ2P7SCg+7lVEb0Kwa+NaplFUpCQldYO7D\n7Hcc09Az3U7+vCjYiBNIsEJpwqTcyyHWCHhgbu/IyAyRpfkbEwcGaSjN2m+3XD8M\nrwIDAQAB\n-----END PUBLIC KEY-----"
+  }
 }
